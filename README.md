@@ -13,17 +13,19 @@ A look into Open Data from [Opportunity Atlas](https://www.opportunityatlas.org/
 ___How can Baltimore better target their considerable problem of poverty, and how can the different metrics affect the financial position of children in adulthood?___
 
 ## Open Data 
-1.	Opportunity Insights:
-- [Baltimore household income for those with parents' income in bottom 25th percentile](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p25%20(11).csv): this dataset contains data for about household income for {NUMBER} children who had parents with incomes in the bottom 25th percentile.
-- [Baltimore household income for those with parents' income in middle 50th percentile](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p50%20(7).csv):this dataset contains data about household income for {} children who had parents with incomes in the middle 50th percentile.
-- [Baltimore household income for those with parents' income in 75th percentile or higher](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p75%20(2).csv):this dataset contains data about household income for {} children who had parents with incomes in the top 75th percentile.
-- [Nassau County household income for those with parents' income in bottom 25th percentile](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p25%20(12).csv): this dataset contains data about household income for {NUMBER} children who had parents with incomes in the bottom 25th percentile.
-- [Nassau County household income for those with parents' income in middle 50th percentile](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p50%20(8).csv):this dataset contains data about household income for {} children who had parents with incomes in the middle 50th percentile.
-- [Nassau County household income for those with parents' income in 75th percentile or higher](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p75%20(3).csv):this dataset contains data about household income for {} children who had parents with incomes in the top 75th percentile.
+1.	__Opportunity Insights:__ this research group found the average household income from the 2014-2015 Census.
+- [Nassau County household income for those with parents' income in bottom 25th percentile](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p25%20(11).csv)
+- [Nassau County household income for those with parents' income in middle 50th percentile](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p50%20(7).csv)
+- [Nassau County household income for those with parents' income in 75th percentile or higher](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p75%20(2).csv)
+- [Baltimore household income for those with parents' income in bottom 25th percentile](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p25%20(12).csv)
+- [Baltimore household income for those with parents' income in middle 50th percentile](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p50%20(8).csv)
+- [Baltimore household income for those with parents' income in 75th percentile or higher](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p75%20(3).csv)
 
 
 ## Data Analysis 
 Microsoft Excel was used to help further provide color on the problem and potential avenues to solving it.
+
+![alt text]
 
 No one who grew up in Nassau County, regardless of the income of the parents, were living in poverty in adulthood. According to my data, Baltimore was similar to Nassau in that it also had virtually no levels of poverty for those who grew up with parents with incomes higher than the 25th percentile. However, for those with parents' income in the 25th percentile or less, 75% ended up in poverty when they were adults. This demonstrates that getting parents in the 50th percentile made a big difference for those in Baltimore. Looking at how to get more people at that level could help result in lower percentages of adults in poverty. 
 
