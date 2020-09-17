@@ -14,9 +14,15 @@ ___How can Baltimore better target their considerable problem of poverty, and ho
 
 ## Open Data 
 1.	Opportunity Insights:
+Nassau County, NY
 - [link](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p25%20(11).csv): this dataset contains data about household income for {NUMBER} children who had parents with incomes in the bottom 25th percentile.
 - [link](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p50%20(7).csv):this dataset contains data about household income for {} children who had parents with incomes in the middle 50th percentile.
-- :this dataset contains data about household income for {} children who had parents with incomes in the top 75th percentile.
+- [link](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p75%20(2).csv):this dataset contains data about household income for {} children who had parents with incomes in the top 75th percentile.
+Baltimore, MD
+- [link](): this dataset contains data about household income for {NUMBER} children who had parents with incomes in the bottom 25th percentile.
+- [link]():this dataset contains data about household income for {} children who had parents with incomes in the middle 50th percentile.
+- [link]():this dataset contains data about household income for {} children who had parents with incomes in the top 75th percentile.
+
 
 ## Data Analysis 
 Microsoft Excel was used to help further provide color on the problem and potential avenues to solving it.
