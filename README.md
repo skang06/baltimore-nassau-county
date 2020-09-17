@@ -43,4 +43,4 @@ Based on my analysis, focusing on different pockets of Baltimore that are more s
 
 Some additional data on the specific pockets in both Nassau and Baltimore that seem to have lower household incomes relative to other towns in the area would be helpful.
 
-This is important for me because throughout my 3 years at Hopkins, I have definitely felt the difference in wealth between the Baltimore and Nassau County. I would hope that I might want to make sure that I make sure to base any solutions on hard metrics and data that I find in order to more adequately be able to monitor my own biases while developing some sort of solution for Baltimore.
+This is important for me because throughout my 3 years at Hopkins, I have definitely felt the difference in wealth between the Baltimore and Nassau County. I would want to make sure that I base any solutions on hard metrics and data that I find in order to more adequately be able to monitor my own biases while developing some sort of solution for Baltimore.
