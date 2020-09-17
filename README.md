@@ -37,7 +37,7 @@ No one who grew up in Nassau County, regardless of the income of the parents, we
 Both pivot charts show that there are pockets in both locations where household income is lower across all parent income distributions. This provides a direction of where to potentially concentrate resources for maximum benefit in the future. 
 
 ## Summary
-Overall household income is higher for those who live in Nassau, regardless of parents' income. Thus, location plays role. Given the importance of household income in different aspects of life, including health and future security, the analysis provides a direction for which to start to combat poverty. Looking into what Nassau 
+Overall household income is higher for those who live in Nassau, regardless of parents' income. Thus, location plays role. Given the importance of household income in different aspects of life, including health and future security, the analysis provides a direction for which to start to combat poverty. Looking into what initiatives and opportunities Nassau made available to its residents would be a good reference.
 
 Based on my analysis, focusing on different pockets of Baltimore that are more significantly lower in terms of household income could be an efficient method to target issues of poverty. Furthermore, determining what Nassau might do or have that could result in higher household incomes could be another way of figuring out Baltimore-centric solutions. Finally, focusing on getting people within the middle 50th percentile in terms of income could help with future issues of poverty.
 
