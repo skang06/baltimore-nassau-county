@@ -14,11 +14,9 @@ ___How can Baltimore better target their considerable problem of poverty, and ho
 
 ## Open Data 
 1.	Opportunity Insights:
-Nassau County, NY
-- [Baltimore household income for those with parents' income in bottom 25th percentile](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p25%20(11).csv): this dataset contains data about household income for {NUMBER} children who had parents with incomes in the bottom 25th percentile.
+- [Baltimore household income for those with parents' income in bottom 25th percentile](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p25%20(11).csv): this dataset contains data for about household income for {NUMBER} children who had parents with incomes in the bottom 25th percentile.
 - [Baltimore household income for those with parents' income in middle 50th percentile](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p50%20(7).csv):this dataset contains data about household income for {} children who had parents with incomes in the middle 50th percentile.
 - [Baltimore household income for those with parents' income in 75th percentile or higher](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p75%20(2).csv):this dataset contains data about household income for {} children who had parents with incomes in the top 75th percentile.
-Baltimore, MD
 - [Nassau County household income for those with parents' income in bottom 25th percentile](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p25%20(12).csv): this dataset contains data about household income for {NUMBER} children who had parents with incomes in the bottom 25th percentile.
 - [Nassau County household income for those with parents' income in middle 50th percentile](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p50%20(8).csv):this dataset contains data about household income for {} children who had parents with incomes in the middle 50th percentile.
 - [Nassau County household income for those with parents' income in 75th percentile or higher](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p75%20(3).csv):this dataset contains data about household income for {} children who had parents with incomes in the top 75th percentile.
