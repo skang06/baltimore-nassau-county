@@ -7,7 +7,7 @@ A deeper look into a vastly different location could provide greater insights. A
 A look into Open Data from [Opportunity Atlas](https://www.opportunityatlas.org/) will provide the means to explore how tthe financial trajectory of individuals in adulthood may be correlated with their parents' income and location at which they grew up.
 
 ## Business Question
-___How can Baltimore better target their considerable poverty problem, and what  better location and income of parents' help with upward mobility of children in adulthood?___
+___How can Baltimore better target their considerable poverty problem in children, and what can we learn from those who grew up in a location with a different socioeconomic landscape and different level of parents' income to help facilitate upward mobility of children in adulthood?___
 
 ## Open Data 
 1.	Opportunity Insights:
