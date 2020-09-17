@@ -26,7 +26,7 @@ ___How can Baltimore better target their considerable problem of poverty, and ho
 Microsoft Excel was used to help further provide color on the problem and potential avenues to solving it.
 
 ![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/nassaupivot.png)
-
+![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/nassaupoverty.png)
 No one who grew up in Nassau County, regardless of the income of the parents, were living in poverty in adulthood. According to my data, Baltimore only had very small levels of poverty for those who grew up with parents with incomes higher than the 25th percentile. However, for those with parents' income in the 25th percentile or less, 75% ended up in poverty when they were adults. This demonstrates that getting parents in the 50th percentile made a big difference for those in Baltimore. Looking at how to get more people at that level could help result in lower percentages of adults in poverty. 
 
 Upon looking at the combined bar graph, you can see that the both the mean and median are higher in Nassau than in Baltimore. Sometimes the values for a mean can be skewed by outliers, but the fact that both the mean and median here are higher in Nassau than in Baltimore demonstrates its consistency. It highlights the need for reform, and how looking into some of the initiatives and opportunities that are created by living in Nassau could help develop Baltimore-centric solutions for the issue of poverty.
