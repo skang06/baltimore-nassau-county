@@ -14,7 +14,7 @@ ___How can Baltimore better target their considerable problem of poverty, and ho
 
 ## Open Data 
 1.	Opportunity Insights:
-- [link](shown_tract_kfr_rP_gP_p25 (11).csv): this dataset contains data about household income for {NUMBER} children who had parents with incomes in the bottom 25th percentile.
+- [link](baltimore-nassau-county/shown_tract_kfr_rP_gP_p25 (11).csv): this dataset contains data about household income for {NUMBER} children who had parents with incomes in the bottom 25th percentile.
 - :this dataset contains data about household income for {} children who had parents with incomes in the middle 50th percentile.
 - :this dataset contains data about household income for {} children who had parents with incomes in the top 75th percentile.
 
