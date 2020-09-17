@@ -7,14 +7,17 @@ A deeper look into a vastly different location could provide greater insights. A
 A look into Open Data from [Opportunity Atlas](https://www.opportunityatlas.org/) will provide the means to explore how tthe financial trajectory of individuals in adulthood may be correlated with their parents' income and location at which they grew up.
 
 ## Business Question
-How can Baltimore better target their considerable poverty problem, and what  better location and income of parents' help with upward mobility of children in adulthood?
+___How can Baltimore better target their considerable poverty problem, and what  better location and income of parents' help with upward mobility of children in adulthood?___
 
 ## Open Data 
 1.	Opportunity Insights:
 - LINK: this dataset contains data about household income for {NUMBER} children who had parents in the bottom 25th percentile.
 - this dataset contains data about household income for {} children who had parents in the middle 50th percentile.
 - this dataset contains data about household income for {} children who had parents in the top 75th percentile.
+
 ## Data Analysis 
+Microsoft Excel was used to help understand the problem.
+
 Upon comparing the two bar graphs you can see that those who grew up in Nassau County had virtually no one in poverty across the different parent income distributions. However, Baltimore had virtually 75% of adults who had parents in the 25th percentile end up in poverty when they were adults. That percentage decreased by more than half (25% in poverty)for those whose parents were in the 50th percentile. This demonstrated that getting parents in the 50th percentile made a big difference.
 
 In addition, it is interesting to note that there was a higher standard deviation for Nassau than Baltimore. This could go to show the 
@@ -27,9 +30,3 @@ Some additional data that is helpful to build on these findings. More data on wh
 
 
 There may be aspects I already have witnessed from my hometown that I could use to help brainstorm some Baltimore-centric solutions. 
-
-### third level
-
-__bold__
-_italic_
-
