@@ -26,14 +26,17 @@ ___How can Baltimore better target their considerable problem of poverty, and wh
 Microsoft Excel was used to help further provide color on the problem and potential avenues for solutions.
 
 ![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/meanmedian.png)
+
 Upon looking at the combined bar graph, you can see that the both the mean and median are higher in Nassau than in Baltimore. Sometimes the values for a mean can be skewed by outliers, but the fact that both the mean and median here are higher in Nassau than in Baltimore demonstrates its consistency. It highlights the need for reform, and how looking into some of the initiatives and opportunities that are created by living in Nassau could help develop Baltimore-centric solutions for the issue of poverty.
 
 ![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/nassaupoverty.png)
 ![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/baltimorepoverty.png)
+
 No one who grew up in Nassau County, regardless of the income of the parents, were living in poverty in adulthood. According to my data, Baltimore only had very small levels of poverty for those who grew up with parents with incomes higher than the 25th percentile. However, for those with parents' income in the 25th percentile or less, around 60% ended up in poverty when they were adults. This demonstrates that getting parents in the 50th percentile made a big difference for those in Baltimore. Looking at how to get more people at that level could help result in lower percentages of adults in poverty. 
 
 ![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/nassaupivot1.png)
 ![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/baltimorepivot1.png)
+
 Both pivot charts show that there are pockets in both locations where household income is lower across all parent income distributions. This provides a direction of where to potentially concentrate resources in a Baltimore-centric soluutino for maximum benefit in the future. 
 
 ## Summary
