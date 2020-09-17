@@ -33,7 +33,7 @@ No one who grew up in Nassau County, regardless of the income of the parents, we
 Upon looking at the combined bar graph, you can see that the both the mean and median are higher in Nassau than in Baltimore. Sometimes the values for a mean can be skewed by outliers, but the fact that both the mean and median here are higher in Nassau than in Baltimore demonstrates its consistency. It highlights the need for reform, and how looking into some of the initiatives and opportunities that are created by living in Nassau could help develop Baltimore-centric solutions for the issue of poverty.
 
 ![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/nassaupivot.png)
-![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/baltimorepivot.png)
+![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/baltimorepivot1.png)
 
 Both pivot charts show that there are pockets in both locations where household income is lower across all parent income distributions. This provides a direction of where to potentially concentrating resources for maximum benefit in the future. 
 
