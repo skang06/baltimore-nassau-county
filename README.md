@@ -10,7 +10,7 @@ An analysis of Nassau County, NY and Baltimore, MD, two locations with very diff
 A look into Open Data from [Opportunity Atlas](https://www.opportunityatlas.org/) for household income will provide the means to explore how the financial trajectory of individuals in adulthood may be correlated with their parents' income and location at which they grew up.
 
 ## Business Question
-___How can Baltimore better target their considerable problem of poverty, and how can different metrics affect the financial position of children in adulthood?___
+___How can Baltimore better target their considerable problem of poverty, and what different metrics affect the financial position of children in adulthood?___
 
 ## Open Data 
 1.	__Opportunity Insights:__ this research group found the average household income from the 2014-2015 Census. A full data dictionary of column variables can be found [here.](https://github.com/skang06/baltimore-nassau-county/blob/master/glossary.txt)
