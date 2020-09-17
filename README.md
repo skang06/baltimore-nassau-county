@@ -25,7 +25,7 @@ ___How can Baltimore better target their considerable problem of poverty, and ho
 ## Data Analysis 
 Microsoft Excel was used to help further provide color on the problem and potential avenues to solving it.
 
-![alt text](https://github.com/skang06/baltimore-nassau-county)
+![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/nassaupivot.png)
 
 No one who grew up in Nassau County, regardless of the income of the parents, were living in poverty in adulthood. According to my data, Baltimore only had very small levels of poverty for those who grew up with parents with incomes higher than the 25th percentile. However, for those with parents' income in the 25th percentile or less, 75% ended up in poverty when they were adults. This demonstrates that getting parents in the 50th percentile made a big difference for those in Baltimore. Looking at how to get more people at that level could help result in lower percentages of adults in poverty. 
 
