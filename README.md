@@ -13,7 +13,7 @@ A look into Open Data from [Opportunity Atlas](https://www.opportunityatlas.org/
 ___How can Baltimore better target their considerable problem of poverty, and how can different metrics affect the financial position of children in adulthood?___
 
 ## Open Data 
-1.	__Opportunity Insights:__ this research group found the average household income from the 2014-2015 Census.
+1.	__Opportunity Insights:__ this research group found the average household income from the 2014-2015 Census. A full data dictionary of column variables can be found [here.](https://github.com/skang06/baltimore-nassau-county/blob/master/glossary.txt)
 - [Nassau County household income for those with parents' income in bottom 25th percentile](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p25%20(11).csv):this dataset contains the original data source
 - [Nassau County household income for those with parents' income in middle 50th percentile](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p50%20(7).csv):this dataset contains the original data source
 - [Nassau County household income for those with parents' income in 75th percentile or higher](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p75%20(2).csv):this dataset contains the original data source
