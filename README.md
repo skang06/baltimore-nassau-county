@@ -41,7 +41,7 @@ Both pivot charts show that there are pockets in both locations where household 
 
 ## Python Notebooks/ Analysis
 Used Python and Google colaboratory to conduct analysis
-- __Baltimore-Nassau-sunwookang.ipynb:__ a Google Colaboratory notebook to aggregate data and make data visualizations [![Open in Colab]())]().
+- __Baltimore-Nassau-sunwookang.ipynb:__ a Google Colaboratory notebook to aggregate data and make data visualizations [![Open in Colab](https://colab.research.google.com/assetts/colab-badge.svg))](https://colab.research.google.com/drive/11teRC-rjrv8kMtpNIDOyBTZdIYh9PQTe?usp=sharing).
 
 ## Summary
 Overall household income is higher for those who live in Nassau, regardless of parents' income. Thus, location plays some role. Looking into what initiatives and opportunities Nassau made available to its residents would be a good reference to figure out Baltimore-centric solutions. Based on my analysis, focusing on different pockets of Baltimore that are more significantly lower in terms of household income could be an efficient method to target issues of poverty. Finally, focusing on getting people within the middle 50th percentile in terms of income could help with future issues of poverty. 
