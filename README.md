@@ -39,6 +39,10 @@ No one who grew up in Nassau County, regardless of the income of the parents, we
 
 Both pivot charts show that there are pockets in both locations where household income is lower across all parent income distributions. This provides a direction of where to potentially concentrate resources in a Baltimore-centric soluutino for maximum benefit in the future. 
 
+## Python Notebooks/ Analysis
+Used Python and Google colaboratory to conduct analysis
+- __Baltimore-Nassau-sunwookang.ipynb:__ a Google Colaboratory notebook to aggregate data and make data visualizations [![Open in Colab]())]().
+
 ## Summary
 Overall household income is higher for those who live in Nassau, regardless of parents' income. Thus, location plays some role. Looking into what initiatives and opportunities Nassau made available to its residents would be a good reference to figure out Baltimore-centric solutions. Based on my analysis, focusing on different pockets of Baltimore that are more significantly lower in terms of household income could be an efficient method to target issues of poverty. Finally, focusing on getting people within the middle 50th percentile in terms of income could help with future issues of poverty. 
 
