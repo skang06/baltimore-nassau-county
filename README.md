@@ -44,15 +44,6 @@ Used Python and Google colaboratory to conduct analysis
 - __Baltimore-Nassau-sunwookang.ipynb:__ a Google Colaboratory notebook to aggregate data and make data visualizations [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]().
 
 ## Python Data Analysis
-Python was used to recreate the pivot chart. The pivot table as shown above compared the different household incomes for those who came from differing household income backgrounds (25th, 50th, and 75th percentiles) in the different neighborhoods of Baltimore. As demonstrated in the two graphs, they are both showing the exact same trends. 
-
-Python was also used to calculate the aggregated mean and median for the differing household incomes (25th, 50th, 75th percentiles). Like the analysis for the pivot tables, this was easier as it required only a couple of lines of code. However, something worth noting was that there were slightly different values for the mean and median upon Python Data Analysis, which indicated that different value sets may have been included in each one. 
-
-Python did help in this analysis in that it involved commands that performed steps that would have otherwise required the use of multiple clicks. Thus, it was faster. Moreover, since it does not involve as many steps, there is less room for error. Not to mention, Python immediately tells you if something went wrong with an explanation as to why it went wrong. For Excel, it is a bit harder to figure out why something might not be going right. 
-
-Nonetheless, Python made the analysis a bit difficult in that it was not as intuitive as Excel. I did not have much prior experience using Excel, and so it made forming certain graphs more difficult. Had I more experience, analysis from the pivot chart and mean, median, percentage calculations show that Python would have shown quicker results.
-
-In the future, Python is an efficient method of analysis if one is experienced with using it. It often accomplishes tasks with only a couple steps, minimizing the chance for error. Additionally, it tells you why something might not be working. Both can be used to provide checks against each other, if time allows, as I mentioned earlier sometimes they provide different answers that one can catch using the different methods.
 
 
 ## Summary
