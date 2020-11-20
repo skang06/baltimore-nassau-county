@@ -22,7 +22,7 @@ ___How can Baltimore better target their considerable problem of poverty, and wh
 - [Baltimore household income for those with parents' income in 75th percentile or higher](https://github.com/skang06/baltimore-nassau-county/blob/master/shown_tract_kfr_rP_gP_p75%20(3).csv):this dataset contains the original data source
 
 
-## Data Analysis 
+## Excel Data Analysis 
 Microsoft Excel was used to help further provide color on the problem and potential avenues for solutions.
 
 ![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/meanmedian.png)
@@ -37,15 +37,28 @@ No one who grew up in Nassau County, regardless of the income of the parents, we
 ![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/nassaupivot1.png)
 ![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/baltimorepivot2.png)
 
-Both pivot charts show that there are pockets in both locations where household income is lower across all parent income distributions. This provides a direction of where to potentially concentrate resources in a Baltimore-centric soluutino for maximum benefit in the future. 
+Both pivot charts show that there are pockets in both locations where household income is lower across all parent income distributions. This provides a direction of where to potentially concentrate resources in a Baltimore-centric solution for maximum benefit in the future. 
 
-## Python Notebooks/ Analysis
+## Python Notebooks
 Used Python and Google colaboratory to conduct analysis
 - __Baltimore-Nassau-sunwookang.ipynb:__ a Google Colaboratory notebook to aggregate data and make data visualizations [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]().
 
+## Python Data Analysis
+Python was used to recreate the pivot chart. The pivot table as shown above compared the different household incomes for those who came from differing household income backgrounds (25th, 50th, and 75th percentiles) in the different neighborhoods of Baltimore. As demonstrated in the two graphs, they are both showing the exact same trends. 
+
+Python was also used to calculate the aggregated mean and median for the differing household incomes (25th, 50th, 75th percentiles). Like the analysis for the pivot tables, this was easier as it required only a couple of lines of code. However, something worth noting was that there were slightly different values for the mean and median upon Python Data Analysis, which indicated that different value sets may have been included in each one. 
+
+Python did help in this analysis in that it involved commands that performed steps that would have otherwise required the use of multiple clicks. Thus, it was faster. Moreover, since it does not involve as many steps, there is less room for error. Not to mention, Python immediately tells you if something went wrong with an explanation as to why it went wrong. For Excel, it is a bit harder to figure out why something might not be going right. 
+
+Nonetheless, Python made the analysis a bit difficult in that it was not as intuitive as Excel. I did not have much prior experience using Excel, and so it made forming certain graphs more difficult. Had I more experience, analysis from the pivot chart and mean, median, percentage calculations show that Python would have shown quicker results.
+
+In the future, Python is an efficient method of analysis if one is experienced with using it. It often accomplishes tasks with only a couple steps, minimizing the chance for error. Additionally, it tells you why something might not be working. Both can be used to provide checks against each other, if time allows, as I mentioned earlier sometimes they provide different answers that one can catch using the different methods.
+
+
 ## Summary
-Overall household income is higher for those who live in Nassau, regardless of parents' income. Thus, location plays some role. Looking into what initiatives and opportunities Nassau made available to its residents would be a good reference to figure out Baltimore-centric solutions. Based on my analysis, focusing on different pockets of Baltimore that are more significantly lower in terms of household income could be an efficient method to target issues of poverty. Finally, focusing on getting people within the middle 50th percentile in terms of income could help with future issues of poverty. 
 
-Some additional data on the specific pockets in both Nassau and Baltimore that seem to have lower household incomes relative to other towns in the area would be helpful.
+This issue of household income is important given the far-reaching effects of it, in terms of health and crime, as well as the tendency of it to cycle and continue in the future. 
 
-This issue of household income is important given the far-reaching effects of it as well as the tendency of it to cycle and continue in the future. Throughout my time in Baltimore, I have definitely felt the difference in income between Baltimore and Nassau County. It would be great to be able to take what I know from my home county to try to implement potential solutions. However, I would try to make sure that I base any solutions on hard metrics and data that I find in order to more adequately be able to monitor my own biases while developing some sort of solution for Baltimore.
+Overall household income is higher for those who live in Nassau County, regardless of parents' income. The findings are important for the Baltimore City Department as they can look into what initiatives and opportunities Nassau made available to its residents in order to figure out Baltimore-centric solutions to decrease rates of poverty. Based on my analysis, focusing on different pockets of Baltimore that are more significantly lower in terms of household income could be an efficient method to target issues of poverty. Finally, focusing on getting people within the middle 50th percentile in terms of income could help with future issues of poverty. 
+
+Some additional data on the specific pockets in both Nassau County and Baltimore that seem to have lower household incomes relative to other towns in the area would be helpful.
