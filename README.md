@@ -52,4 +52,4 @@ This issue of household income is important given the far-reaching effects of it
 
 Overall household income is higher for those who live in Nassau County, regardless of parents' income. The findings are important for the Baltimore City Department as they can look into what initiatives and opportunities Nassau made available to its residents in order to figure out Baltimore-centric solutions to decrease rates of poverty. Based on my analysis, focusing on different pockets of Baltimore that are more significantly lower in terms of household income could be an efficient method to target issues of poverty. Finally, focusing on getting people within the middle 50th percentile in terms of income could help with future issues of poverty. 
 
-Some additional data on the specific pockets in both Nassau County and Baltimore that seem to have lower household incomes relative to other towns in the area would be helpful.
+Some additional data on the specific pockets in both Nassau County and Baltimore that seem to have lower household incomes relative to other towns in the area would be helpful. 
