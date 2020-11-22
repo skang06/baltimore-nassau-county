@@ -63,7 +63,7 @@ Overall, Python did help in this analysis in that it involved commands that perf
 
 Nonetheless, Python made the analysis a bit difficult in that it was not as intuitive as Excel. I did not have much prior experience using Excel, and so it made forming certain graphs more difficult and took longer. Additionally, since I could not see all of the data set at once as I was going through all of the analysis for Python (it required me to put an extra code to see it), it made it harder to catch some discrepancies in the data.
 
-In the future, Python is an efficient method of analysis if one is experienced with using it. It often accomplishes tasks with only a couple steps, minimizing the chance for error. Additionally, it tells you why something might not be working. Both can be used to provide checks against each other, if time allows, as I mentioned earlier, sometimes they provide different answers that one can catch using the different methods.
+In the future, Python is an efficient method of analysis if one is experienced with using it, particularly for larger data sets. It often accomplishes tasks with only a couple steps, minimizing the chance for error. Additionally, it tells you why something might not be working. Both can be used to provide checks against each other, if time allows, as I mentioned earlier, sometimes they provide different answers that one can catch using the different methods.
 
 Since I do not have as much experience with Python, I would gravitate towards Excel particularly for smaller data sets as it is more intuitive. For larger data sets, Python would be more efficient and result in less error because it catches you if there are errors in code, and needs fewer clicks to accomplish things.
 
