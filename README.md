@@ -47,6 +47,11 @@ Used Python and Google colaboratory to conduct analysis
 ![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-21%20at%208.31.17%20PM.png)
 ![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-21%20at%208.31.28%20PM.png)
 
+![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-21%20at%208.42.09%20PM.png)
+
+![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-21%20at%208.41.53%20PM.png)
+
+
 ## Summary
 
 This issue of household income is important given the far-reaching effects of it, in terms of health and crime, as well as the tendency of it to cycle and continue in the future. 
