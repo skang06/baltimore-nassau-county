@@ -45,14 +45,16 @@ Used Python and Google colaboratory to conduct analysis
 
 ## Python Data Analysis
 
-![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-21%20at%208.42.09%20PM.png)
-![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-21%20at%208.41.53%20PM.png)
+![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-22%20at%205.58.12%20PM.png)
+![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-22%20at%205.58.31%20PM.png)
 Python was used to measure how many people were below/above the poverty level for each income bracket. This produced almost identical results to the Excel data analysis, further supporting the conclusion that there were much more people above poverty in Baltimore across the income percentiles. Moreover, getting people in the 50th percentile made a big difference in lowering the amount below poverty in Baltimore. Additionally, Nassau had barely any below poverty. The slight error in getting some people below poverty in Nassau although the Excel data analysis did not, was that the in my Excel analysis, I realized had filtered out those with blank inputs for the different income percentiles because I had been able to see it clearly since I saw the data set all on one page. Howevver, using Python, I wasn't able to catch that.
 
-![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-21%20at%208.31.17%20PM.png)
-![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-21%20at%208.31.28%20PM.png)
+![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-22%20at%205.59.15%20PM.png)
+![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-22%20at%205.59.26%20PM.png)
 Python was used to recreate the pivot charts that compared the different household incomes for those who came from differing household income backgrounds in the different neighborhoods of Baltimore. As demonstrated in the two graphs, they are both showing that there are pockets in both locations where household income is lower across all parent income distributions, as the Excel Data Analysis did. 
 
+![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-22%20at%205.58.42%20PM.png)
+![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-22%20at%205.58.52%20PM.png)
 Python was also used to calculate the aggregated mean and median for the differing household incomes. Although the mean and median for Baltimore were lower than Nassau for all income percentiles, supporting the original analysis, the analysis produced slightly different values for some of the mean and median values. As mentioned earlier, there were some data points that I had not included from the Excel analysis since I had seen empty inputs, but hadn't in my Python analysis.
 
 In conclusion, Python provided further support for my analysis as I receive the virtually the same mean, median, above/below poverty calculations and pivot charts. Therefore, I was able to able provide credibility to my original analysis. 
