@@ -45,6 +45,7 @@ Used Python and Google colaboratory to conduct analysis
 
 ## Python Data Analysis
 ![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-21%20at%208.31.17%20PM.png)
+![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-21%20at%208.31.28%20PM.png)
 
 ## Summary
 
