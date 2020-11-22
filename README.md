@@ -41,7 +41,7 @@ Both pivot charts show that there are pockets in both locations where household 
 
 ## Python Notebooks
 Used Python and Google colaboratory to conduct analysis
-- __Baltimore-Nassau-sunwookang.ipynb:__ a Google Colaboratory notebook to aggregate data and make data visualizations [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]().
+- __Baltimore-Nassau-sunwookang.ipynb:__ a Google Colaboratory notebook to aggregate data and make data visualizations [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11teRC-rjrv8kMtpNIDOyBTZdIYh9PQTe#scrollTo=tbo5tE9SR066).
 
 ## Python Data Analysis
 
