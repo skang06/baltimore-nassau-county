@@ -44,7 +44,7 @@ Used Python and Google colaboratory to conduct analysis
 - __Baltimore-Nassau-sunwookang.ipynb:__ a Google Colaboratory notebook to aggregate data and make data visualizations [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]().
 
 ## Python Data Analysis
-
+![alt text](https://github.com/skang06/baltimore-nassau-county/blob/master/Screen%20Shot%202020-11-21%20at%208.31.17%20PM.png)
 
 ## Summary
 
